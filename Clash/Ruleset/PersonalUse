@@ -1,5 +1,5 @@
 #内容：一些规则中没有的网站，有时候匹配会出错，需要手动添加
-#数量：2条
+#数量：3条
 DOMAIN-KEYWORD,18comic
 DOMAIN-KEYWORD,hanime1
 DOMAIN-KEYWORD,rule34
